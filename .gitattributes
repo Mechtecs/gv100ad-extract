@@ -5,6 +5,6 @@
 
 .gitignore text
 *.md text
-*.php binary
+*.php text
 *.json text
 *.sql text
