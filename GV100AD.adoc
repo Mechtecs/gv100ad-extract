@@ -1,0 +1,30 @@
+# GV100AD file format
+
+## Format
+
+|===
+|Position|Content
+|11-18
+|Regionalschluessel
+|11-12
+|Land
+|13
+|Regierungsbezirk
+|14-15
+|Kreis
+|16-18
+|Gemeinde
+|19-22
+|Gemeindeverband
+|===
+
+## Beispiel Neuhardenberg - 120643405410
+
+|===
+|Wert|Inhalt
+|12|Brandenburg
+|0|-
+|64|Landkreis Märkisch Oderland
+|340|Gemeinde Neuhardenberg
+|5410|Amt Neuhardenberg
+|===
