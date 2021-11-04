@@ -1,0 +1,2802 @@
+[
+    {
+        "ars": "01001",
+        "name": "Flensburg, Stadt",
+        "gemeindeschluessel": "01001",
+        "verbandsschluessel": "",
+        "landesregierung": "Flensburg"
+    },
+    {
+        "ars": "01002",
+        "name": "Kiel, Landeshauptstadt",
+        "gemeindeschluessel": "01002",
+        "verbandsschluessel": "",
+        "landesregierung": "Kiel"
+    },
+    {
+        "ars": "01003",
+        "name": "L\u00fcbeck, Hansestadt",
+        "gemeindeschluessel": "01003",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00fcbeck"
+    },
+    {
+        "ars": "01004",
+        "name": "Neum\u00fcnster, Stadt",
+        "gemeindeschluessel": "01004",
+        "verbandsschluessel": "",
+        "landesregierung": "Neum\u00fcnster"
+    },
+    {
+        "ars": "01051",
+        "name": "Dithmarschen",
+        "gemeindeschluessel": "01051",
+        "verbandsschluessel": "",
+        "landesregierung": "Heide"
+    },
+    {
+        "ars": "01053",
+        "name": "Herzogtum Lauenburg",
+        "gemeindeschluessel": "01053",
+        "verbandsschluessel": "",
+        "landesregierung": "Ratzeburg"
+    },
+    {
+        "ars": "01054",
+        "name": "Nordfriesland",
+        "gemeindeschluessel": "01054",
+        "verbandsschluessel": "",
+        "landesregierung": "Husum"
+    },
+    {
+        "ars": "01055",
+        "name": "Ostholstein",
+        "gemeindeschluessel": "01055",
+        "verbandsschluessel": "",
+        "landesregierung": "Eutin"
+    },
+    {
+        "ars": "01056",
+        "name": "Pinneberg",
+        "gemeindeschluessel": "01056",
+        "verbandsschluessel": "",
+        "landesregierung": "Elmshorn"
+    },
+    {
+        "ars": "01057",
+        "name": "Pl\u00f6n",
+        "gemeindeschluessel": "01057",
+        "verbandsschluessel": "",
+        "landesregierung": "Pl\u00f6n"
+    },
+    {
+        "ars": "01058",
+        "name": "Rendsburg-Eckernf\u00f6rde",
+        "gemeindeschluessel": "01058",
+        "verbandsschluessel": "",
+        "landesregierung": "Rendsburg"
+    },
+    {
+        "ars": "01059",
+        "name": "Schleswig-Flensburg",
+        "gemeindeschluessel": "01059",
+        "verbandsschluessel": "",
+        "landesregierung": "Schleswig"
+    },
+    {
+        "ars": "01060",
+        "name": "Segeberg",
+        "gemeindeschluessel": "01060",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Segeberg"
+    },
+    {
+        "ars": "01061",
+        "name": "Steinburg",
+        "gemeindeschluessel": "01061",
+        "verbandsschluessel": "",
+        "landesregierung": "Itzehoe"
+    },
+    {
+        "ars": "01062",
+        "name": "Stormarn",
+        "gemeindeschluessel": "01062",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Oldesloe"
+    },
+    {
+        "ars": "02000",
+        "name": "Hamburg, Freie und Hansestadt",
+        "gemeindeschluessel": "02000",
+        "verbandsschluessel": "",
+        "landesregierung": "Hamburg"
+    },
+    {
+        "ars": "03101",
+        "name": "Braunschweig, Stadt",
+        "gemeindeschluessel": "03101",
+        "verbandsschluessel": "",
+        "landesregierung": "Braunschweig"
+    },
+    {
+        "ars": "03102",
+        "name": "Salzgitter, Stadt",
+        "gemeindeschluessel": "03102",
+        "verbandsschluessel": "",
+        "landesregierung": "Salzgitter"
+    },
+    {
+        "ars": "03103",
+        "name": "Wolfsburg, Stadt",
+        "gemeindeschluessel": "03103",
+        "verbandsschluessel": "",
+        "landesregierung": "Wolfsburg"
+    },
+    {
+        "ars": "03151",
+        "name": "Gifhorn",
+        "gemeindeschluessel": "03151",
+        "verbandsschluessel": "",
+        "landesregierung": "Gifhorn"
+    },
+    {
+        "ars": "03153",
+        "name": "Goslar",
+        "gemeindeschluessel": "03153",
+        "verbandsschluessel": "",
+        "landesregierung": "Goslar"
+    },
+    {
+        "ars": "03154",
+        "name": "Helmstedt",
+        "gemeindeschluessel": "03154",
+        "verbandsschluessel": "",
+        "landesregierung": "Helmstedt"
+    },
+    {
+        "ars": "03155",
+        "name": "Northeim",
+        "gemeindeschluessel": "03155",
+        "verbandsschluessel": "",
+        "landesregierung": "Northeim"
+    },
+    {
+        "ars": "03157",
+        "name": "Peine",
+        "gemeindeschluessel": "03157",
+        "verbandsschluessel": "",
+        "landesregierung": "Peine"
+    },
+    {
+        "ars": "03158",
+        "name": "Wolfenb\u00fcttel",
+        "gemeindeschluessel": "03158",
+        "verbandsschluessel": "",
+        "landesregierung": "Wolfenb\u00fcttel"
+    },
+    {
+        "ars": "03159",
+        "name": "G\u00f6ttingen",
+        "gemeindeschluessel": "03159",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00f6ttingen"
+    },
+    {
+        "ars": "03241",
+        "name": "Region Hannover",
+        "gemeindeschluessel": "03241",
+        "verbandsschluessel": "",
+        "landesregierung": "Hannover"
+    },
+    {
+        "ars": "03251",
+        "name": "Diepholz",
+        "gemeindeschluessel": "03251",
+        "verbandsschluessel": "",
+        "landesregierung": "Diepholz"
+    },
+    {
+        "ars": "03252",
+        "name": "Hameln-Pyrmont",
+        "gemeindeschluessel": "03252",
+        "verbandsschluessel": "",
+        "landesregierung": "Hameln"
+    },
+    {
+        "ars": "03254",
+        "name": "Hildesheim",
+        "gemeindeschluessel": "03254",
+        "verbandsschluessel": "",
+        "landesregierung": "Hildesheim"
+    },
+    {
+        "ars": "03255",
+        "name": "Holzminden",
+        "gemeindeschluessel": "03255",
+        "verbandsschluessel": "",
+        "landesregierung": "Holzminden"
+    },
+    {
+        "ars": "03256",
+        "name": "Nienburg (Weser)",
+        "gemeindeschluessel": "03256",
+        "verbandsschluessel": "",
+        "landesregierung": "Nienburg\/Weser"
+    },
+    {
+        "ars": "03257",
+        "name": "Schaumburg",
+        "gemeindeschluessel": "03257",
+        "verbandsschluessel": "",
+        "landesregierung": "Stadthagen"
+    },
+    {
+        "ars": "03351",
+        "name": "Celle",
+        "gemeindeschluessel": "03351",
+        "verbandsschluessel": "",
+        "landesregierung": "Celle"
+    },
+    {
+        "ars": "03352",
+        "name": "Cuxhaven",
+        "gemeindeschluessel": "03352",
+        "verbandsschluessel": "",
+        "landesregierung": "Cuxhaven"
+    },
+    {
+        "ars": "03353",
+        "name": "Harburg",
+        "gemeindeschluessel": "03353",
+        "verbandsschluessel": "",
+        "landesregierung": "Winsen\/Luhe"
+    },
+    {
+        "ars": "03354",
+        "name": "L\u00fcchow-Dannenberg",
+        "gemeindeschluessel": "03354",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00fcchow, Wendland"
+    },
+    {
+        "ars": "03355",
+        "name": "L\u00fcneburg",
+        "gemeindeschluessel": "03355",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00fcneburg"
+    },
+    {
+        "ars": "03356",
+        "name": "Osterholz",
+        "gemeindeschluessel": "03356",
+        "verbandsschluessel": "",
+        "landesregierung": "Osterholz-Scharmbeck"
+    },
+    {
+        "ars": "03357",
+        "name": "Rotenburg (W\u00fcmme)",
+        "gemeindeschluessel": "03357",
+        "verbandsschluessel": "",
+        "landesregierung": "Rotenburg\/W\u00fcmme"
+    },
+    {
+        "ars": "03358",
+        "name": "Heidekreis",
+        "gemeindeschluessel": "03358",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Fallingbostel"
+    },
+    {
+        "ars": "03359",
+        "name": "Stade",
+        "gemeindeschluessel": "03359",
+        "verbandsschluessel": "",
+        "landesregierung": "Stade"
+    },
+    {
+        "ars": "03360",
+        "name": "Uelzen",
+        "gemeindeschluessel": "03360",
+        "verbandsschluessel": "",
+        "landesregierung": "Uelzen"
+    },
+    {
+        "ars": "03361",
+        "name": "Verden",
+        "gemeindeschluessel": "03361",
+        "verbandsschluessel": "",
+        "landesregierung": "Verden\/Aller"
+    },
+    {
+        "ars": "03401",
+        "name": "Delmenhorst, Stadt",
+        "gemeindeschluessel": "03401",
+        "verbandsschluessel": "",
+        "landesregierung": "Delmenhorst"
+    },
+    {
+        "ars": "03402",
+        "name": "Emden, Stadt",
+        "gemeindeschluessel": "03402",
+        "verbandsschluessel": "",
+        "landesregierung": "Emden\/Ostfriesland"
+    },
+    {
+        "ars": "03403",
+        "name": "Oldenburg (Oldenburg), Stadt",
+        "gemeindeschluessel": "03403",
+        "verbandsschluessel": "",
+        "landesregierung": "Oldenburg\/Oldenburg"
+    },
+    {
+        "ars": "03404",
+        "name": "Osnabr\u00fcck, Stadt",
+        "gemeindeschluessel": "03404",
+        "verbandsschluessel": "",
+        "landesregierung": "Osnabr\u00fcck"
+    },
+    {
+        "ars": "03405",
+        "name": "Wilhelmshaven, Stadt",
+        "gemeindeschluessel": "03405",
+        "verbandsschluessel": "",
+        "landesregierung": "Wilhelmshaven"
+    },
+    {
+        "ars": "03451",
+        "name": "Ammerland",
+        "gemeindeschluessel": "03451",
+        "verbandsschluessel": "",
+        "landesregierung": "Westerstede"
+    },
+    {
+        "ars": "03452",
+        "name": "Aurich",
+        "gemeindeschluessel": "03452",
+        "verbandsschluessel": "",
+        "landesregierung": "Aurich"
+    },
+    {
+        "ars": "03453",
+        "name": "Cloppenburg",
+        "gemeindeschluessel": "03453",
+        "verbandsschluessel": "",
+        "landesregierung": "Cloppenburg"
+    },
+    {
+        "ars": "03454",
+        "name": "Emsland",
+        "gemeindeschluessel": "03454",
+        "verbandsschluessel": "",
+        "landesregierung": "Meppen"
+    },
+    {
+        "ars": "03455",
+        "name": "Friesland",
+        "gemeindeschluessel": "03455",
+        "verbandsschluessel": "",
+        "landesregierung": "Jever"
+    },
+    {
+        "ars": "03456",
+        "name": "Grafschaft Bentheim",
+        "gemeindeschluessel": "03456",
+        "verbandsschluessel": "",
+        "landesregierung": "Nordhorn"
+    },
+    {
+        "ars": "03457",
+        "name": "Leer",
+        "gemeindeschluessel": "03457",
+        "verbandsschluessel": "",
+        "landesregierung": "Leer\/Ostfriesland"
+    },
+    {
+        "ars": "03458",
+        "name": "Oldenburg",
+        "gemeindeschluessel": "03458",
+        "verbandsschluessel": "",
+        "landesregierung": "Wildeshausen"
+    },
+    {
+        "ars": "03459",
+        "name": "Osnabr\u00fcck",
+        "gemeindeschluessel": "03459",
+        "verbandsschluessel": "",
+        "landesregierung": "Osnabr\u00fcck"
+    },
+    {
+        "ars": "03460",
+        "name": "Vechta",
+        "gemeindeschluessel": "03460",
+        "verbandsschluessel": "",
+        "landesregierung": "Vechta"
+    },
+    {
+        "ars": "03461",
+        "name": "Wesermarsch",
+        "gemeindeschluessel": "03461",
+        "verbandsschluessel": "",
+        "landesregierung": "Brake\/Unterweser"
+    },
+    {
+        "ars": "03462",
+        "name": "Wittmund",
+        "gemeindeschluessel": "03462",
+        "verbandsschluessel": "",
+        "landesregierung": "Wittmund"
+    },
+    {
+        "ars": "04011",
+        "name": "Bremen, Stadt",
+        "gemeindeschluessel": "04011",
+        "verbandsschluessel": "",
+        "landesregierung": "Bremen"
+    },
+    {
+        "ars": "04012",
+        "name": "Bremerhaven, Stadt",
+        "gemeindeschluessel": "04012",
+        "verbandsschluessel": "",
+        "landesregierung": "Bremerhaven"
+    },
+    {
+        "ars": "05111",
+        "name": "D\u00fcsseldorf, Stadt",
+        "gemeindeschluessel": "05111",
+        "verbandsschluessel": "",
+        "landesregierung": "D\u00fcsseldorf"
+    },
+    {
+        "ars": "05112",
+        "name": "Duisburg, Stadt",
+        "gemeindeschluessel": "05112",
+        "verbandsschluessel": "",
+        "landesregierung": "Duisburg"
+    },
+    {
+        "ars": "05113",
+        "name": "Essen, Stadt",
+        "gemeindeschluessel": "05113",
+        "verbandsschluessel": "",
+        "landesregierung": "Essen"
+    },
+    {
+        "ars": "05114",
+        "name": "Krefeld, Stadt",
+        "gemeindeschluessel": "05114",
+        "verbandsschluessel": "",
+        "landesregierung": "Krefeld"
+    },
+    {
+        "ars": "05116",
+        "name": "M\u00f6nchengladbach, Stadt",
+        "gemeindeschluessel": "05116",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00f6nchengladbach"
+    },
+    {
+        "ars": "05117",
+        "name": "M\u00fclheim an der Ruhr, Stadt",
+        "gemeindeschluessel": "05117",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fclheim an der Ruhr"
+    },
+    {
+        "ars": "05119",
+        "name": "Oberhausen, Stadt",
+        "gemeindeschluessel": "05119",
+        "verbandsschluessel": "",
+        "landesregierung": "Oberhausen"
+    },
+    {
+        "ars": "05120",
+        "name": "Remscheid, Stadt",
+        "gemeindeschluessel": "05120",
+        "verbandsschluessel": "",
+        "landesregierung": "Remscheid"
+    },
+    {
+        "ars": "05122",
+        "name": "Solingen, Klingenstadt",
+        "gemeindeschluessel": "05122",
+        "verbandsschluessel": "",
+        "landesregierung": "Solingen"
+    },
+    {
+        "ars": "05124",
+        "name": "Wuppertal, Stadt",
+        "gemeindeschluessel": "05124",
+        "verbandsschluessel": "",
+        "landesregierung": "Wuppertal"
+    },
+    {
+        "ars": "05154",
+        "name": "Kleve",
+        "gemeindeschluessel": "05154",
+        "verbandsschluessel": "",
+        "landesregierung": "Kleve"
+    },
+    {
+        "ars": "05158",
+        "name": "Mettmann",
+        "gemeindeschluessel": "05158",
+        "verbandsschluessel": "",
+        "landesregierung": "Mettmann"
+    },
+    {
+        "ars": "05162",
+        "name": "Rhein-Kreis Neuss",
+        "gemeindeschluessel": "05162",
+        "verbandsschluessel": "",
+        "landesregierung": "Neuss"
+    },
+    {
+        "ars": "05166",
+        "name": "Viersen",
+        "gemeindeschluessel": "05166",
+        "verbandsschluessel": "",
+        "landesregierung": "Viersen"
+    },
+    {
+        "ars": "05170",
+        "name": "Wesel",
+        "gemeindeschluessel": "05170",
+        "verbandsschluessel": "",
+        "landesregierung": "Wesel"
+    },
+    {
+        "ars": "05314",
+        "name": "Bonn, Stadt",
+        "gemeindeschluessel": "05314",
+        "verbandsschluessel": "",
+        "landesregierung": "Bonn"
+    },
+    {
+        "ars": "05315",
+        "name": "K\u00f6ln, Stadt",
+        "gemeindeschluessel": "05315",
+        "verbandsschluessel": "",
+        "landesregierung": "K\u00f6ln"
+    },
+    {
+        "ars": "05316",
+        "name": "Leverkusen, Stadt",
+        "gemeindeschluessel": "05316",
+        "verbandsschluessel": "",
+        "landesregierung": "Leverkusen"
+    },
+    {
+        "ars": "05334",
+        "name": "St\u00e4dteregion Aachen",
+        "gemeindeschluessel": "05334",
+        "verbandsschluessel": "",
+        "landesregierung": "Aachen"
+    },
+    {
+        "ars": "05358",
+        "name": "D\u00fcren",
+        "gemeindeschluessel": "05358",
+        "verbandsschluessel": "",
+        "landesregierung": "D\u00fcren"
+    },
+    {
+        "ars": "05362",
+        "name": "Rhein-Erft-Kreis",
+        "gemeindeschluessel": "05362",
+        "verbandsschluessel": "",
+        "landesregierung": "Bergheim"
+    },
+    {
+        "ars": "05366",
+        "name": "Euskirchen",
+        "gemeindeschluessel": "05366",
+        "verbandsschluessel": "",
+        "landesregierung": "Euskirchen"
+    },
+    {
+        "ars": "05370",
+        "name": "Heinsberg",
+        "gemeindeschluessel": "05370",
+        "verbandsschluessel": "",
+        "landesregierung": "Heinsberg"
+    },
+    {
+        "ars": "05374",
+        "name": "Oberbergischer Kreis",
+        "gemeindeschluessel": "05374",
+        "verbandsschluessel": "",
+        "landesregierung": "Gummersbach"
+    },
+    {
+        "ars": "05378",
+        "name": "Rheinisch-Bergischer Kreis",
+        "gemeindeschluessel": "05378",
+        "verbandsschluessel": "",
+        "landesregierung": "Bergisch Gladbach"
+    },
+    {
+        "ars": "05382",
+        "name": "Rhein-Sieg-Kreis",
+        "gemeindeschluessel": "05382",
+        "verbandsschluessel": "",
+        "landesregierung": "Siegburg"
+    },
+    {
+        "ars": "05512",
+        "name": "Bottrop, Stadt",
+        "gemeindeschluessel": "05512",
+        "verbandsschluessel": "",
+        "landesregierung": "Bottrop"
+    },
+    {
+        "ars": "05513",
+        "name": "Gelsenkirchen, Stadt",
+        "gemeindeschluessel": "05513",
+        "verbandsschluessel": "",
+        "landesregierung": "Gelsenkirchen"
+    },
+    {
+        "ars": "05515",
+        "name": "M\u00fcnster, Stadt",
+        "gemeindeschluessel": "05515",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fcnster"
+    },
+    {
+        "ars": "05554",
+        "name": "Borken",
+        "gemeindeschluessel": "05554",
+        "verbandsschluessel": "",
+        "landesregierung": "Borken"
+    },
+    {
+        "ars": "05558",
+        "name": "Coesfeld",
+        "gemeindeschluessel": "05558",
+        "verbandsschluessel": "",
+        "landesregierung": "Coesfeld"
+    },
+    {
+        "ars": "05562",
+        "name": "Recklinghausen",
+        "gemeindeschluessel": "05562",
+        "verbandsschluessel": "",
+        "landesregierung": "Recklinghausen"
+    },
+    {
+        "ars": "05566",
+        "name": "Steinfurt",
+        "gemeindeschluessel": "05566",
+        "verbandsschluessel": "",
+        "landesregierung": "Steinfurt"
+    },
+    {
+        "ars": "05570",
+        "name": "Warendorf",
+        "gemeindeschluessel": "05570",
+        "verbandsschluessel": "",
+        "landesregierung": "Warendorf"
+    },
+    {
+        "ars": "05711",
+        "name": "Bielefeld, Stadt",
+        "gemeindeschluessel": "05711",
+        "verbandsschluessel": "",
+        "landesregierung": "Bielefeld"
+    },
+    {
+        "ars": "05754",
+        "name": "G\u00fctersloh",
+        "gemeindeschluessel": "05754",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00fctersloh"
+    },
+    {
+        "ars": "05758",
+        "name": "Herford",
+        "gemeindeschluessel": "05758",
+        "verbandsschluessel": "",
+        "landesregierung": "Herford"
+    },
+    {
+        "ars": "05762",
+        "name": "H\u00f6xter",
+        "gemeindeschluessel": "05762",
+        "verbandsschluessel": "",
+        "landesregierung": "H\u00f6xter"
+    },
+    {
+        "ars": "05766",
+        "name": "Lippe",
+        "gemeindeschluessel": "05766",
+        "verbandsschluessel": "",
+        "landesregierung": "Detmold"
+    },
+    {
+        "ars": "05770",
+        "name": "Minden-L\u00fcbbecke",
+        "gemeindeschluessel": "05770",
+        "verbandsschluessel": "",
+        "landesregierung": "Minden"
+    },
+    {
+        "ars": "05774",
+        "name": "Paderborn",
+        "gemeindeschluessel": "05774",
+        "verbandsschluessel": "",
+        "landesregierung": "Paderborn"
+    },
+    {
+        "ars": "05911",
+        "name": "Bochum, Stadt",
+        "gemeindeschluessel": "05911",
+        "verbandsschluessel": "",
+        "landesregierung": "Bochum"
+    },
+    {
+        "ars": "05913",
+        "name": "Dortmund, Stadt",
+        "gemeindeschluessel": "05913",
+        "verbandsschluessel": "",
+        "landesregierung": "Dortmund"
+    },
+    {
+        "ars": "05914",
+        "name": "Hagen, Stadt der FernUniversit\u00e4t",
+        "gemeindeschluessel": "05914",
+        "verbandsschluessel": "",
+        "landesregierung": "Hagen"
+    },
+    {
+        "ars": "05915",
+        "name": "Hamm, Stadt",
+        "gemeindeschluessel": "05915",
+        "verbandsschluessel": "",
+        "landesregierung": "Hamm"
+    },
+    {
+        "ars": "05916",
+        "name": "Herne, Stadt",
+        "gemeindeschluessel": "05916",
+        "verbandsschluessel": "",
+        "landesregierung": "Herne"
+    },
+    {
+        "ars": "05954",
+        "name": "Ennepe-Ruhr-Kreis",
+        "gemeindeschluessel": "05954",
+        "verbandsschluessel": "",
+        "landesregierung": "Schwelm"
+    },
+    {
+        "ars": "05958",
+        "name": "Hochsauerlandkreis",
+        "gemeindeschluessel": "05958",
+        "verbandsschluessel": "",
+        "landesregierung": "Meschede"
+    },
+    {
+        "ars": "05962",
+        "name": "M\u00e4rkischer Kreis",
+        "gemeindeschluessel": "05962",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00fcdenscheid"
+    },
+    {
+        "ars": "05966",
+        "name": "Olpe",
+        "gemeindeschluessel": "05966",
+        "verbandsschluessel": "",
+        "landesregierung": "Olpe"
+    },
+    {
+        "ars": "05970",
+        "name": "Siegen-Wittgenstein",
+        "gemeindeschluessel": "05970",
+        "verbandsschluessel": "",
+        "landesregierung": "Siegen"
+    },
+    {
+        "ars": "05974",
+        "name": "Soest",
+        "gemeindeschluessel": "05974",
+        "verbandsschluessel": "",
+        "landesregierung": "Soest"
+    },
+    {
+        "ars": "05978",
+        "name": "Unna",
+        "gemeindeschluessel": "05978",
+        "verbandsschluessel": "",
+        "landesregierung": "Unna"
+    },
+    {
+        "ars": "06411",
+        "name": "Darmstadt, Wissenschaftsstadt",
+        "gemeindeschluessel": "06411",
+        "verbandsschluessel": "",
+        "landesregierung": "Darmstadt"
+    },
+    {
+        "ars": "06412",
+        "name": "Frankfurt am Main, Stadt",
+        "gemeindeschluessel": "06412",
+        "verbandsschluessel": "",
+        "landesregierung": "Frankfurt am Main"
+    },
+    {
+        "ars": "06413",
+        "name": "Offenbach am Main, Stadt",
+        "gemeindeschluessel": "06413",
+        "verbandsschluessel": "",
+        "landesregierung": "Offenbach am Main"
+    },
+    {
+        "ars": "06414",
+        "name": "Wiesbaden, Landeshauptstadt",
+        "gemeindeschluessel": "06414",
+        "verbandsschluessel": "",
+        "landesregierung": "Wiesbaden"
+    },
+    {
+        "ars": "06431",
+        "name": "Bergstra\u00dfe",
+        "gemeindeschluessel": "06431",
+        "verbandsschluessel": "",
+        "landesregierung": "Heppenheim"
+    },
+    {
+        "ars": "06432",
+        "name": "Darmstadt-Dieburg",
+        "gemeindeschluessel": "06432",
+        "verbandsschluessel": "",
+        "landesregierung": "Darmstadt"
+    },
+    {
+        "ars": "06433",
+        "name": "Gro\u00df-Gerau",
+        "gemeindeschluessel": "06433",
+        "verbandsschluessel": "",
+        "landesregierung": "Gro\u00df-Gerau"
+    },
+    {
+        "ars": "06434",
+        "name": "Hochtaunuskreis",
+        "gemeindeschluessel": "06434",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Homburg v. d. H\u00f6he"
+    },
+    {
+        "ars": "06435",
+        "name": "Main-Kinzig-Kreis",
+        "gemeindeschluessel": "06435",
+        "verbandsschluessel": "",
+        "landesregierung": "Gelnhausen"
+    },
+    {
+        "ars": "06436",
+        "name": "Main-Taunus-Kreis",
+        "gemeindeschluessel": "06436",
+        "verbandsschluessel": "",
+        "landesregierung": "Hofheim a. T."
+    },
+    {
+        "ars": "06437",
+        "name": "Odenwaldkreis",
+        "gemeindeschluessel": "06437",
+        "verbandsschluessel": "",
+        "landesregierung": "Erbach"
+    },
+    {
+        "ars": "06438",
+        "name": "Offenbach",
+        "gemeindeschluessel": "06438",
+        "verbandsschluessel": "",
+        "landesregierung": "Dietzenbach"
+    },
+    {
+        "ars": "06439",
+        "name": "Rheingau-Taunus-Kreis",
+        "gemeindeschluessel": "06439",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Schwalbach"
+    },
+    {
+        "ars": "06440",
+        "name": "Wetteraukreis",
+        "gemeindeschluessel": "06440",
+        "verbandsschluessel": "",
+        "landesregierung": "Friedberg (Hessen)"
+    },
+    {
+        "ars": "06531",
+        "name": "Gie\u00dfen",
+        "gemeindeschluessel": "06531",
+        "verbandsschluessel": "",
+        "landesregierung": "Gie\u00dfen"
+    },
+    {
+        "ars": "06532",
+        "name": "Lahn-Dill-Kreis",
+        "gemeindeschluessel": "06532",
+        "verbandsschluessel": "",
+        "landesregierung": "Wetzlar"
+    },
+    {
+        "ars": "06533",
+        "name": "Limburg-Weilburg",
+        "gemeindeschluessel": "06533",
+        "verbandsschluessel": "",
+        "landesregierung": "Limburg a.d.Lahn"
+    },
+    {
+        "ars": "06534",
+        "name": "Marburg-Biedenkopf",
+        "gemeindeschluessel": "06534",
+        "verbandsschluessel": "",
+        "landesregierung": "Marburg"
+    },
+    {
+        "ars": "06535",
+        "name": "Vogelsbergkreis",
+        "gemeindeschluessel": "06535",
+        "verbandsschluessel": "",
+        "landesregierung": "Lauterbach"
+    },
+    {
+        "ars": "06611",
+        "name": "Kassel, documenta-Stadt",
+        "gemeindeschluessel": "06611",
+        "verbandsschluessel": "",
+        "landesregierung": "Kassel"
+    },
+    {
+        "ars": "06631",
+        "name": "Fulda",
+        "gemeindeschluessel": "06631",
+        "verbandsschluessel": "",
+        "landesregierung": "Fulda"
+    },
+    {
+        "ars": "06632",
+        "name": "Hersfeld-Rotenburg",
+        "gemeindeschluessel": "06632",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Hersfeld"
+    },
+    {
+        "ars": "06633",
+        "name": "Kassel",
+        "gemeindeschluessel": "06633",
+        "verbandsschluessel": "",
+        "landesregierung": "Kassel"
+    },
+    {
+        "ars": "06634",
+        "name": "Schwalm-Eder-Kreis",
+        "gemeindeschluessel": "06634",
+        "verbandsschluessel": "",
+        "landesregierung": "Homberg (Efze)"
+    },
+    {
+        "ars": "06635",
+        "name": "Waldeck-Frankenberg",
+        "gemeindeschluessel": "06635",
+        "verbandsschluessel": "",
+        "landesregierung": "Korbach"
+    },
+    {
+        "ars": "06636",
+        "name": "Werra-Mei\u00dfner-Kreis",
+        "gemeindeschluessel": "06636",
+        "verbandsschluessel": "",
+        "landesregierung": "Eschwege"
+    },
+    {
+        "ars": "07111",
+        "name": "Koblenz, kreisfreie Stadt",
+        "gemeindeschluessel": "07111",
+        "verbandsschluessel": "",
+        "landesregierung": "Koblenz"
+    },
+    {
+        "ars": "07131",
+        "name": "Ahrweiler",
+        "gemeindeschluessel": "07131",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Neuenahr-Ahrweiler"
+    },
+    {
+        "ars": "07132",
+        "name": "Altenkirchen (Westerwald)",
+        "gemeindeschluessel": "07132",
+        "verbandsschluessel": "",
+        "landesregierung": "Altenkirchen (Westerwald)"
+    },
+    {
+        "ars": "07133",
+        "name": "Bad Kreuznach",
+        "gemeindeschluessel": "07133",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Kreuznach"
+    },
+    {
+        "ars": "07134",
+        "name": "Birkenfeld",
+        "gemeindeschluessel": "07134",
+        "verbandsschluessel": "",
+        "landesregierung": "Birkenfeld"
+    },
+    {
+        "ars": "07135",
+        "name": "Cochem-Zell",
+        "gemeindeschluessel": "07135",
+        "verbandsschluessel": "",
+        "landesregierung": "Cochem"
+    },
+    {
+        "ars": "07137",
+        "name": "Mayen-Koblenz",
+        "gemeindeschluessel": "07137",
+        "verbandsschluessel": "",
+        "landesregierung": "Koblenz"
+    },
+    {
+        "ars": "07138",
+        "name": "Neuwied",
+        "gemeindeschluessel": "07138",
+        "verbandsschluessel": "",
+        "landesregierung": "Neuwied"
+    },
+    {
+        "ars": "07140",
+        "name": "Rhein-Hunsr\u00fcck-Kreis",
+        "gemeindeschluessel": "07140",
+        "verbandsschluessel": "",
+        "landesregierung": "Simmern\/Hunsr\u00fcck"
+    },
+    {
+        "ars": "07141",
+        "name": "Rhein-Lahn-Kreis",
+        "gemeindeschluessel": "07141",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Ems"
+    },
+    {
+        "ars": "07143",
+        "name": "Westerwaldkreis",
+        "gemeindeschluessel": "07143",
+        "verbandsschluessel": "",
+        "landesregierung": "Montabaur"
+    },
+    {
+        "ars": "07211",
+        "name": "Trier, kreisfreie Stadt",
+        "gemeindeschluessel": "07211",
+        "verbandsschluessel": "",
+        "landesregierung": "Trier"
+    },
+    {
+        "ars": "07231",
+        "name": "Bernkastel-Wittlich",
+        "gemeindeschluessel": "07231",
+        "verbandsschluessel": "",
+        "landesregierung": "Wittlich"
+    },
+    {
+        "ars": "07232",
+        "name": "Eifelkreis Bitburg-Pr\u00fcm",
+        "gemeindeschluessel": "07232",
+        "verbandsschluessel": "",
+        "landesregierung": "Bitburg"
+    },
+    {
+        "ars": "07233",
+        "name": "Vulkaneifel",
+        "gemeindeschluessel": "07233",
+        "verbandsschluessel": "",
+        "landesregierung": "Daun"
+    },
+    {
+        "ars": "07235",
+        "name": "Trier-Saarburg",
+        "gemeindeschluessel": "07235",
+        "verbandsschluessel": "",
+        "landesregierung": "Trier"
+    },
+    {
+        "ars": "07311",
+        "name": "Frankenthal (Pfalz), kreisfreie Stadt",
+        "gemeindeschluessel": "07311",
+        "verbandsschluessel": "",
+        "landesregierung": "Frankenthal (Pfalz)"
+    },
+    {
+        "ars": "07312",
+        "name": "Kaiserslautern, kreisfreie Stadt",
+        "gemeindeschluessel": "07312",
+        "verbandsschluessel": "",
+        "landesregierung": "Kaiserslautern"
+    },
+    {
+        "ars": "07313",
+        "name": "Landau in der Pfalz, kreisfreie Stadt",
+        "gemeindeschluessel": "07313",
+        "verbandsschluessel": "",
+        "landesregierung": "Landau in der Pfalz"
+    },
+    {
+        "ars": "07314",
+        "name": "Ludwigshafen am Rhein, kreisfreie Stadt",
+        "gemeindeschluessel": "07314",
+        "verbandsschluessel": "",
+        "landesregierung": "Ludwigshafen am Rhein"
+    },
+    {
+        "ars": "07315",
+        "name": "Mainz, kreisfreie Stadt",
+        "gemeindeschluessel": "07315",
+        "verbandsschluessel": "",
+        "landesregierung": "Mainz"
+    },
+    {
+        "ars": "07316",
+        "name": "Neustadt an der Weinstra\u00dfe, kreisfreie Stadt",
+        "gemeindeschluessel": "07316",
+        "verbandsschluessel": "",
+        "landesregierung": "Neustadt an der Weinstra\u00dfe"
+    },
+    {
+        "ars": "07317",
+        "name": "Pirmasens, kreisfreie Stadt",
+        "gemeindeschluessel": "07317",
+        "verbandsschluessel": "",
+        "landesregierung": "Pirmasens"
+    },
+    {
+        "ars": "07318",
+        "name": "Speyer, kreisfreie Stadt",
+        "gemeindeschluessel": "07318",
+        "verbandsschluessel": "",
+        "landesregierung": "Speyer"
+    },
+    {
+        "ars": "07319",
+        "name": "Worms, kreisfreie Stadt",
+        "gemeindeschluessel": "07319",
+        "verbandsschluessel": "",
+        "landesregierung": "Worms"
+    },
+    {
+        "ars": "07320",
+        "name": "Zweibr\u00fccken, kreisfreie Stadt",
+        "gemeindeschluessel": "07320",
+        "verbandsschluessel": "",
+        "landesregierung": "Zweibr\u00fccken"
+    },
+    {
+        "ars": "07331",
+        "name": "Alzey-Worms",
+        "gemeindeschluessel": "07331",
+        "verbandsschluessel": "",
+        "landesregierung": "Alzey"
+    },
+    {
+        "ars": "07332",
+        "name": "Bad D\u00fcrkheim",
+        "gemeindeschluessel": "07332",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad D\u00fcrkheim"
+    },
+    {
+        "ars": "07333",
+        "name": "Donnersbergkreis",
+        "gemeindeschluessel": "07333",
+        "verbandsschluessel": "",
+        "landesregierung": "Kirchheimbolanden"
+    },
+    {
+        "ars": "07334",
+        "name": "Germersheim",
+        "gemeindeschluessel": "07334",
+        "verbandsschluessel": "",
+        "landesregierung": "Germersheim"
+    },
+    {
+        "ars": "07335",
+        "name": "Kaiserslautern",
+        "gemeindeschluessel": "07335",
+        "verbandsschluessel": "",
+        "landesregierung": "Kaiserslautern"
+    },
+    {
+        "ars": "07336",
+        "name": "Kusel",
+        "gemeindeschluessel": "07336",
+        "verbandsschluessel": "",
+        "landesregierung": "Kusel"
+    },
+    {
+        "ars": "07337",
+        "name": "S\u00fcdliche Weinstra\u00dfe",
+        "gemeindeschluessel": "07337",
+        "verbandsschluessel": "",
+        "landesregierung": "Landau in der Pfalz"
+    },
+    {
+        "ars": "07338",
+        "name": "Rhein-Pfalz-Kreis",
+        "gemeindeschluessel": "07338",
+        "verbandsschluessel": "",
+        "landesregierung": "Ludwigshafen am Rhein"
+    },
+    {
+        "ars": "07339",
+        "name": "Mainz-Bingen",
+        "gemeindeschluessel": "07339",
+        "verbandsschluessel": "",
+        "landesregierung": "Ingelheim am Rhein"
+    },
+    {
+        "ars": "07340",
+        "name": "S\u00fcdwestpfalz",
+        "gemeindeschluessel": "07340",
+        "verbandsschluessel": "",
+        "landesregierung": "Pirmasens"
+    },
+    {
+        "ars": "08111",
+        "name": "Stuttgart, Stadtkreis",
+        "gemeindeschluessel": "08111",
+        "verbandsschluessel": "",
+        "landesregierung": "Stuttgart"
+    },
+    {
+        "ars": "08115",
+        "name": "B\u00f6blingen",
+        "gemeindeschluessel": "08115",
+        "verbandsschluessel": "",
+        "landesregierung": "B\u00f6blingen"
+    },
+    {
+        "ars": "08116",
+        "name": "Esslingen",
+        "gemeindeschluessel": "08116",
+        "verbandsschluessel": "",
+        "landesregierung": "Esslingen am Neckar"
+    },
+    {
+        "ars": "08117",
+        "name": "G\u00f6ppingen",
+        "gemeindeschluessel": "08117",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00f6ppingen"
+    },
+    {
+        "ars": "08118",
+        "name": "Ludwigsburg",
+        "gemeindeschluessel": "08118",
+        "verbandsschluessel": "",
+        "landesregierung": "Ludwigsburg"
+    },
+    {
+        "ars": "08119",
+        "name": "Rems-Murr-Kreis",
+        "gemeindeschluessel": "08119",
+        "verbandsschluessel": "",
+        "landesregierung": "Waiblingen"
+    },
+    {
+        "ars": "08121",
+        "name": "Heilbronn, Stadtkreis",
+        "gemeindeschluessel": "08121",
+        "verbandsschluessel": "",
+        "landesregierung": "Heilbronn"
+    },
+    {
+        "ars": "08125",
+        "name": "Heilbronn",
+        "gemeindeschluessel": "08125",
+        "verbandsschluessel": "",
+        "landesregierung": "Heilbronn"
+    },
+    {
+        "ars": "08126",
+        "name": "Hohenlohekreis",
+        "gemeindeschluessel": "08126",
+        "verbandsschluessel": "",
+        "landesregierung": "K\u00fcnzelsau"
+    },
+    {
+        "ars": "08127",
+        "name": "Schw\u00e4bisch Hall",
+        "gemeindeschluessel": "08127",
+        "verbandsschluessel": "",
+        "landesregierung": "Schw\u00e4bisch Hall"
+    },
+    {
+        "ars": "08128",
+        "name": "Main-Tauber-Kreis",
+        "gemeindeschluessel": "08128",
+        "verbandsschluessel": "",
+        "landesregierung": "Tauberbischofsheim"
+    },
+    {
+        "ars": "08135",
+        "name": "Heidenheim",
+        "gemeindeschluessel": "08135",
+        "verbandsschluessel": "",
+        "landesregierung": "Heidenheim an der Brenz"
+    },
+    {
+        "ars": "08136",
+        "name": "Ostalbkreis",
+        "gemeindeschluessel": "08136",
+        "verbandsschluessel": "",
+        "landesregierung": "Aalen"
+    },
+    {
+        "ars": "08211",
+        "name": "Baden-Baden, Stadtkreis",
+        "gemeindeschluessel": "08211",
+        "verbandsschluessel": "",
+        "landesregierung": "Baden-Baden"
+    },
+    {
+        "ars": "08212",
+        "name": "Karlsruhe, Stadtkreis",
+        "gemeindeschluessel": "08212",
+        "verbandsschluessel": "",
+        "landesregierung": "Karlsruhe"
+    },
+    {
+        "ars": "08215",
+        "name": "Karlsruhe",
+        "gemeindeschluessel": "08215",
+        "verbandsschluessel": "",
+        "landesregierung": "Karlsruhe"
+    },
+    {
+        "ars": "08216",
+        "name": "Rastatt",
+        "gemeindeschluessel": "08216",
+        "verbandsschluessel": "",
+        "landesregierung": "Rastatt"
+    },
+    {
+        "ars": "08221",
+        "name": "Heidelberg, Stadtkreis",
+        "gemeindeschluessel": "08221",
+        "verbandsschluessel": "",
+        "landesregierung": "Heidelberg"
+    },
+    {
+        "ars": "08222",
+        "name": "Mannheim, Stadtkreis",
+        "gemeindeschluessel": "08222",
+        "verbandsschluessel": "",
+        "landesregierung": "Mannheim"
+    },
+    {
+        "ars": "08225",
+        "name": "Neckar-Odenwald-Kreis",
+        "gemeindeschluessel": "08225",
+        "verbandsschluessel": "",
+        "landesregierung": "Mosbach"
+    },
+    {
+        "ars": "08226",
+        "name": "Rhein-Neckar-Kreis",
+        "gemeindeschluessel": "08226",
+        "verbandsschluessel": "",
+        "landesregierung": "Heidelberg"
+    },
+    {
+        "ars": "08231",
+        "name": "Pforzheim, Stadtkreis",
+        "gemeindeschluessel": "08231",
+        "verbandsschluessel": "",
+        "landesregierung": "Pforzheim"
+    },
+    {
+        "ars": "08235",
+        "name": "Calw",
+        "gemeindeschluessel": "08235",
+        "verbandsschluessel": "",
+        "landesregierung": "Calw"
+    },
+    {
+        "ars": "08236",
+        "name": "Enzkreis",
+        "gemeindeschluessel": "08236",
+        "verbandsschluessel": "",
+        "landesregierung": "Pforzheim"
+    },
+    {
+        "ars": "08237",
+        "name": "Freudenstadt",
+        "gemeindeschluessel": "08237",
+        "verbandsschluessel": "",
+        "landesregierung": "Freudenstadt"
+    },
+    {
+        "ars": "08311",
+        "name": "Freiburg im Breisgau, Stadtkreis",
+        "gemeindeschluessel": "08311",
+        "verbandsschluessel": "",
+        "landesregierung": "Freiburg im Breisgau"
+    },
+    {
+        "ars": "08315",
+        "name": "Breisgau-Hochschwarzwald",
+        "gemeindeschluessel": "08315",
+        "verbandsschluessel": "",
+        "landesregierung": "Freiburg im Breisgau"
+    },
+    {
+        "ars": "08316",
+        "name": "Emmendingen",
+        "gemeindeschluessel": "08316",
+        "verbandsschluessel": "",
+        "landesregierung": "Emmendingen"
+    },
+    {
+        "ars": "08317",
+        "name": "Ortenaukreis",
+        "gemeindeschluessel": "08317",
+        "verbandsschluessel": "",
+        "landesregierung": "Offenburg"
+    },
+    {
+        "ars": "08325",
+        "name": "Rottweil",
+        "gemeindeschluessel": "08325",
+        "verbandsschluessel": "",
+        "landesregierung": "Rottweil"
+    },
+    {
+        "ars": "08326",
+        "name": "Schwarzwald-Baar-Kreis",
+        "gemeindeschluessel": "08326",
+        "verbandsschluessel": "",
+        "landesregierung": "Villingen-Schwenningen"
+    },
+    {
+        "ars": "08327",
+        "name": "Tuttlingen",
+        "gemeindeschluessel": "08327",
+        "verbandsschluessel": "",
+        "landesregierung": "Tuttlingen"
+    },
+    {
+        "ars": "08335",
+        "name": "Konstanz",
+        "gemeindeschluessel": "08335",
+        "verbandsschluessel": "",
+        "landesregierung": "Konstanz"
+    },
+    {
+        "ars": "08336",
+        "name": "L\u00f6rrach",
+        "gemeindeschluessel": "08336",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00f6rrach"
+    },
+    {
+        "ars": "08337",
+        "name": "Waldshut",
+        "gemeindeschluessel": "08337",
+        "verbandsschluessel": "",
+        "landesregierung": "Waldshut-Tiengen"
+    },
+    {
+        "ars": "08415",
+        "name": "Reutlingen",
+        "gemeindeschluessel": "08415",
+        "verbandsschluessel": "",
+        "landesregierung": "Reutlingen"
+    },
+    {
+        "ars": "08416",
+        "name": "T\u00fcbingen",
+        "gemeindeschluessel": "08416",
+        "verbandsschluessel": "",
+        "landesregierung": "T\u00fcbingen"
+    },
+    {
+        "ars": "08417",
+        "name": "Zollernalbkreis",
+        "gemeindeschluessel": "08417",
+        "verbandsschluessel": "",
+        "landesregierung": "Balingen"
+    },
+    {
+        "ars": "08421",
+        "name": "Ulm, Stadtkreis",
+        "gemeindeschluessel": "08421",
+        "verbandsschluessel": "",
+        "landesregierung": "Ulm"
+    },
+    {
+        "ars": "08425",
+        "name": "Alb-Donau-Kreis",
+        "gemeindeschluessel": "08425",
+        "verbandsschluessel": "",
+        "landesregierung": "Ulm"
+    },
+    {
+        "ars": "08426",
+        "name": "Biberach",
+        "gemeindeschluessel": "08426",
+        "verbandsschluessel": "",
+        "landesregierung": "Biberach an der Ri\u00df"
+    },
+    {
+        "ars": "08435",
+        "name": "Bodenseekreis",
+        "gemeindeschluessel": "08435",
+        "verbandsschluessel": "",
+        "landesregierung": "Friedrichshafen"
+    },
+    {
+        "ars": "08436",
+        "name": "Ravensburg",
+        "gemeindeschluessel": "08436",
+        "verbandsschluessel": "",
+        "landesregierung": "Ravensburg"
+    },
+    {
+        "ars": "08437",
+        "name": "Sigmaringen",
+        "gemeindeschluessel": "08437",
+        "verbandsschluessel": "",
+        "landesregierung": "Sigmaringen"
+    },
+    {
+        "ars": "09161",
+        "name": "Ingolstadt",
+        "gemeindeschluessel": "09161",
+        "verbandsschluessel": "",
+        "landesregierung": "Ingolstadt"
+    },
+    {
+        "ars": "09162",
+        "name": "M\u00fcnchen, Landeshauptstadt",
+        "gemeindeschluessel": "09162",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fcnchen"
+    },
+    {
+        "ars": "09163",
+        "name": "Rosenheim",
+        "gemeindeschluessel": "09163",
+        "verbandsschluessel": "",
+        "landesregierung": "Rosenheim"
+    },
+    {
+        "ars": "09171",
+        "name": "Alt\u00f6tting",
+        "gemeindeschluessel": "09171",
+        "verbandsschluessel": "",
+        "landesregierung": "Alt\u00f6tting"
+    },
+    {
+        "ars": "09172",
+        "name": "Berchtesgadener Land",
+        "gemeindeschluessel": "09172",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Reichenhall"
+    },
+    {
+        "ars": "09173",
+        "name": "Bad T\u00f6lz-Wolfratshausen",
+        "gemeindeschluessel": "09173",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad T\u00f6lz"
+    },
+    {
+        "ars": "09174",
+        "name": "Dachau",
+        "gemeindeschluessel": "09174",
+        "verbandsschluessel": "",
+        "landesregierung": "Dachau"
+    },
+    {
+        "ars": "09175",
+        "name": "Ebersberg",
+        "gemeindeschluessel": "09175",
+        "verbandsschluessel": "",
+        "landesregierung": "Ebersberg"
+    },
+    {
+        "ars": "09176",
+        "name": "Eichst\u00e4tt",
+        "gemeindeschluessel": "09176",
+        "verbandsschluessel": "",
+        "landesregierung": "Eichst\u00e4tt"
+    },
+    {
+        "ars": "09177",
+        "name": "Erding",
+        "gemeindeschluessel": "09177",
+        "verbandsschluessel": "",
+        "landesregierung": "Erding"
+    },
+    {
+        "ars": "09178",
+        "name": "Freising",
+        "gemeindeschluessel": "09178",
+        "verbandsschluessel": "",
+        "landesregierung": "Freising"
+    },
+    {
+        "ars": "09179",
+        "name": "F\u00fcrstenfeldbruck",
+        "gemeindeschluessel": "09179",
+        "verbandsschluessel": "",
+        "landesregierung": "F\u00fcrstenfeldbruck"
+    },
+    {
+        "ars": "09180",
+        "name": "Garmisch-Partenkirchen",
+        "gemeindeschluessel": "09180",
+        "verbandsschluessel": "",
+        "landesregierung": "Garmisch-Partenkirchen"
+    },
+    {
+        "ars": "09181",
+        "name": "Landsberg am Lech",
+        "gemeindeschluessel": "09181",
+        "verbandsschluessel": "",
+        "landesregierung": "Landsberg am Lech"
+    },
+    {
+        "ars": "09182",
+        "name": "Miesbach",
+        "gemeindeschluessel": "09182",
+        "verbandsschluessel": "",
+        "landesregierung": "Miesbach"
+    },
+    {
+        "ars": "09183",
+        "name": "M\u00fchldorf a.Inn",
+        "gemeindeschluessel": "09183",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fchldorf a.Inn"
+    },
+    {
+        "ars": "09184",
+        "name": "M\u00fcnchen",
+        "gemeindeschluessel": "09184",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fcnchen"
+    },
+    {
+        "ars": "09185",
+        "name": "Neuburg-Schrobenhausen",
+        "gemeindeschluessel": "09185",
+        "verbandsschluessel": "",
+        "landesregierung": "Neuburg a.d.Donau"
+    },
+    {
+        "ars": "09186",
+        "name": "Pfaffenhofen a.d.Ilm",
+        "gemeindeschluessel": "09186",
+        "verbandsschluessel": "",
+        "landesregierung": "Pfaffenhofen a.d.Ilm"
+    },
+    {
+        "ars": "09187",
+        "name": "Rosenheim",
+        "gemeindeschluessel": "09187",
+        "verbandsschluessel": "",
+        "landesregierung": "Rosenheim"
+    },
+    {
+        "ars": "09188",
+        "name": "Starnberg",
+        "gemeindeschluessel": "09188",
+        "verbandsschluessel": "",
+        "landesregierung": "Starnberg"
+    },
+    {
+        "ars": "09189",
+        "name": "Traunstein",
+        "gemeindeschluessel": "09189",
+        "verbandsschluessel": "",
+        "landesregierung": "Traunstein"
+    },
+    {
+        "ars": "09190",
+        "name": "Weilheim-Schongau",
+        "gemeindeschluessel": "09190",
+        "verbandsschluessel": "",
+        "landesregierung": "Weilheim i.OB"
+    },
+    {
+        "ars": "09261",
+        "name": "Landshut",
+        "gemeindeschluessel": "09261",
+        "verbandsschluessel": "",
+        "landesregierung": "Landshut"
+    },
+    {
+        "ars": "09262",
+        "name": "Passau",
+        "gemeindeschluessel": "09262",
+        "verbandsschluessel": "",
+        "landesregierung": "Passau"
+    },
+    {
+        "ars": "09263",
+        "name": "Straubing",
+        "gemeindeschluessel": "09263",
+        "verbandsschluessel": "",
+        "landesregierung": "Straubing"
+    },
+    {
+        "ars": "09271",
+        "name": "Deggendorf",
+        "gemeindeschluessel": "09271",
+        "verbandsschluessel": "",
+        "landesregierung": "Deggendorf"
+    },
+    {
+        "ars": "09272",
+        "name": "Freyung-Grafenau",
+        "gemeindeschluessel": "09272",
+        "verbandsschluessel": "",
+        "landesregierung": "Freyung"
+    },
+    {
+        "ars": "09273",
+        "name": "Kelheim",
+        "gemeindeschluessel": "09273",
+        "verbandsschluessel": "",
+        "landesregierung": "Kelheim"
+    },
+    {
+        "ars": "09274",
+        "name": "Landshut",
+        "gemeindeschluessel": "09274",
+        "verbandsschluessel": "",
+        "landesregierung": "Landshut"
+    },
+    {
+        "ars": "09275",
+        "name": "Passau",
+        "gemeindeschluessel": "09275",
+        "verbandsschluessel": "",
+        "landesregierung": "Passau"
+    },
+    {
+        "ars": "09276",
+        "name": "Regen",
+        "gemeindeschluessel": "09276",
+        "verbandsschluessel": "",
+        "landesregierung": "Regen"
+    },
+    {
+        "ars": "09277",
+        "name": "Rottal-Inn",
+        "gemeindeschluessel": "09277",
+        "verbandsschluessel": "",
+        "landesregierung": "Pfarrkirchen"
+    },
+    {
+        "ars": "09278",
+        "name": "Straubing-Bogen",
+        "gemeindeschluessel": "09278",
+        "verbandsschluessel": "",
+        "landesregierung": "Straubing"
+    },
+    {
+        "ars": "09279",
+        "name": "Dingolfing-Landau",
+        "gemeindeschluessel": "09279",
+        "verbandsschluessel": "",
+        "landesregierung": "Dingolfing"
+    },
+    {
+        "ars": "09361",
+        "name": "Amberg",
+        "gemeindeschluessel": "09361",
+        "verbandsschluessel": "",
+        "landesregierung": "Amberg"
+    },
+    {
+        "ars": "09362",
+        "name": "Regensburg",
+        "gemeindeschluessel": "09362",
+        "verbandsschluessel": "",
+        "landesregierung": "Regensburg"
+    },
+    {
+        "ars": "09363",
+        "name": "Weiden i.d.OPf.",
+        "gemeindeschluessel": "09363",
+        "verbandsschluessel": "",
+        "landesregierung": "Weiden i.d.OPf."
+    },
+    {
+        "ars": "09371",
+        "name": "Amberg-Sulzbach",
+        "gemeindeschluessel": "09371",
+        "verbandsschluessel": "",
+        "landesregierung": "Amberg"
+    },
+    {
+        "ars": "09372",
+        "name": "Cham",
+        "gemeindeschluessel": "09372",
+        "verbandsschluessel": "",
+        "landesregierung": "Cham"
+    },
+    {
+        "ars": "09373",
+        "name": "Neumarkt i.d.OPf.",
+        "gemeindeschluessel": "09373",
+        "verbandsschluessel": "",
+        "landesregierung": "Neumarkt i.d.OPf."
+    },
+    {
+        "ars": "09374",
+        "name": "Neustadt a.d.Waldnaab",
+        "gemeindeschluessel": "09374",
+        "verbandsschluessel": "",
+        "landesregierung": "Neustadt a.d.Waldnaab"
+    },
+    {
+        "ars": "09375",
+        "name": "Regensburg",
+        "gemeindeschluessel": "09375",
+        "verbandsschluessel": "",
+        "landesregierung": "Regensburg"
+    },
+    {
+        "ars": "09376",
+        "name": "Schwandorf",
+        "gemeindeschluessel": "09376",
+        "verbandsschluessel": "",
+        "landesregierung": "Schwandorf"
+    },
+    {
+        "ars": "09377",
+        "name": "Tirschenreuth",
+        "gemeindeschluessel": "09377",
+        "verbandsschluessel": "",
+        "landesregierung": "Tirschenreuth"
+    },
+    {
+        "ars": "09461",
+        "name": "Bamberg",
+        "gemeindeschluessel": "09461",
+        "verbandsschluessel": "",
+        "landesregierung": "Bamberg"
+    },
+    {
+        "ars": "09462",
+        "name": "Bayreuth",
+        "gemeindeschluessel": "09462",
+        "verbandsschluessel": "",
+        "landesregierung": "Bayreuth"
+    },
+    {
+        "ars": "09463",
+        "name": "Coburg",
+        "gemeindeschluessel": "09463",
+        "verbandsschluessel": "",
+        "landesregierung": "Coburg"
+    },
+    {
+        "ars": "09464",
+        "name": "Hof",
+        "gemeindeschluessel": "09464",
+        "verbandsschluessel": "",
+        "landesregierung": "Hof"
+    },
+    {
+        "ars": "09471",
+        "name": "Bamberg",
+        "gemeindeschluessel": "09471",
+        "verbandsschluessel": "",
+        "landesregierung": "Bamberg"
+    },
+    {
+        "ars": "09472",
+        "name": "Bayreuth",
+        "gemeindeschluessel": "09472",
+        "verbandsschluessel": "",
+        "landesregierung": "Bayreuth"
+    },
+    {
+        "ars": "09473",
+        "name": "Coburg",
+        "gemeindeschluessel": "09473",
+        "verbandsschluessel": "",
+        "landesregierung": "Coburg"
+    },
+    {
+        "ars": "09474",
+        "name": "Forchheim",
+        "gemeindeschluessel": "09474",
+        "verbandsschluessel": "",
+        "landesregierung": "Forchheim"
+    },
+    {
+        "ars": "09475",
+        "name": "Hof",
+        "gemeindeschluessel": "09475",
+        "verbandsschluessel": "",
+        "landesregierung": "Hof"
+    },
+    {
+        "ars": "09476",
+        "name": "Kronach",
+        "gemeindeschluessel": "09476",
+        "verbandsschluessel": "",
+        "landesregierung": "Kronach"
+    },
+    {
+        "ars": "09477",
+        "name": "Kulmbach",
+        "gemeindeschluessel": "09477",
+        "verbandsschluessel": "",
+        "landesregierung": "Kulmbach"
+    },
+    {
+        "ars": "09478",
+        "name": "Lichtenfels",
+        "gemeindeschluessel": "09478",
+        "verbandsschluessel": "",
+        "landesregierung": "Lichtenfels"
+    },
+    {
+        "ars": "09479",
+        "name": "Wunsiedel i.Fichtelgebirge",
+        "gemeindeschluessel": "09479",
+        "verbandsschluessel": "",
+        "landesregierung": "Wunsiedel"
+    },
+    {
+        "ars": "09561",
+        "name": "Ansbach",
+        "gemeindeschluessel": "09561",
+        "verbandsschluessel": "",
+        "landesregierung": "Ansbach"
+    },
+    {
+        "ars": "09562",
+        "name": "Erlangen",
+        "gemeindeschluessel": "09562",
+        "verbandsschluessel": "",
+        "landesregierung": "Erlangen"
+    },
+    {
+        "ars": "09563",
+        "name": "F\u00fcrth",
+        "gemeindeschluessel": "09563",
+        "verbandsschluessel": "",
+        "landesregierung": "F\u00fcrth"
+    },
+    {
+        "ars": "09564",
+        "name": "N\u00fcrnberg",
+        "gemeindeschluessel": "09564",
+        "verbandsschluessel": "",
+        "landesregierung": "N\u00fcrnberg"
+    },
+    {
+        "ars": "09565",
+        "name": "Schwabach",
+        "gemeindeschluessel": "09565",
+        "verbandsschluessel": "",
+        "landesregierung": "Schwabach"
+    },
+    {
+        "ars": "09571",
+        "name": "Ansbach",
+        "gemeindeschluessel": "09571",
+        "verbandsschluessel": "",
+        "landesregierung": "Ansbach"
+    },
+    {
+        "ars": "09572",
+        "name": "Erlangen-H\u00f6chstadt",
+        "gemeindeschluessel": "09572",
+        "verbandsschluessel": "",
+        "landesregierung": "Erlangen"
+    },
+    {
+        "ars": "09573",
+        "name": "F\u00fcrth",
+        "gemeindeschluessel": "09573",
+        "verbandsschluessel": "",
+        "landesregierung": "Zirndorf"
+    },
+    {
+        "ars": "09574",
+        "name": "N\u00fcrnberger Land",
+        "gemeindeschluessel": "09574",
+        "verbandsschluessel": "",
+        "landesregierung": "Lauf a.d.Pegnitz"
+    },
+    {
+        "ars": "09575",
+        "name": "Neustadt a.d.Aisch-Bad Windsheim",
+        "gemeindeschluessel": "09575",
+        "verbandsschluessel": "",
+        "landesregierung": "Neustadt a.d.Aisch"
+    },
+    {
+        "ars": "09576",
+        "name": "Roth",
+        "gemeindeschluessel": "09576",
+        "verbandsschluessel": "",
+        "landesregierung": "Roth"
+    },
+    {
+        "ars": "09577",
+        "name": "Wei\u00dfenburg-Gunzenhausen",
+        "gemeindeschluessel": "09577",
+        "verbandsschluessel": "",
+        "landesregierung": "Wei\u00dfenburg i.Bay."
+    },
+    {
+        "ars": "09661",
+        "name": "Aschaffenburg",
+        "gemeindeschluessel": "09661",
+        "verbandsschluessel": "",
+        "landesregierung": "Aschaffenburg"
+    },
+    {
+        "ars": "09662",
+        "name": "Schweinfurt",
+        "gemeindeschluessel": "09662",
+        "verbandsschluessel": "",
+        "landesregierung": "Schweinfurt"
+    },
+    {
+        "ars": "09663",
+        "name": "W\u00fcrzburg",
+        "gemeindeschluessel": "09663",
+        "verbandsschluessel": "",
+        "landesregierung": "W\u00fcrzburg"
+    },
+    {
+        "ars": "09671",
+        "name": "Aschaffenburg",
+        "gemeindeschluessel": "09671",
+        "verbandsschluessel": "",
+        "landesregierung": "Aschaffenburg"
+    },
+    {
+        "ars": "09672",
+        "name": "Bad Kissingen",
+        "gemeindeschluessel": "09672",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Kissingen"
+    },
+    {
+        "ars": "09673",
+        "name": "Rh\u00f6n-Grabfeld",
+        "gemeindeschluessel": "09673",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Neustadt a.d.Saale"
+    },
+    {
+        "ars": "09674",
+        "name": "Ha\u00dfberge",
+        "gemeindeschluessel": "09674",
+        "verbandsschluessel": "",
+        "landesregierung": "Ha\u00dffurt"
+    },
+    {
+        "ars": "09675",
+        "name": "Kitzingen",
+        "gemeindeschluessel": "09675",
+        "verbandsschluessel": "",
+        "landesregierung": "Kitzingen"
+    },
+    {
+        "ars": "09676",
+        "name": "Miltenberg",
+        "gemeindeschluessel": "09676",
+        "verbandsschluessel": "",
+        "landesregierung": "Miltenberg"
+    },
+    {
+        "ars": "09677",
+        "name": "Main-Spessart",
+        "gemeindeschluessel": "09677",
+        "verbandsschluessel": "",
+        "landesregierung": "Karlstadt"
+    },
+    {
+        "ars": "09678",
+        "name": "Schweinfurt",
+        "gemeindeschluessel": "09678",
+        "verbandsschluessel": "",
+        "landesregierung": "Schweinfurt"
+    },
+    {
+        "ars": "09679",
+        "name": "W\u00fcrzburg",
+        "gemeindeschluessel": "09679",
+        "verbandsschluessel": "",
+        "landesregierung": "W\u00fcrzburg"
+    },
+    {
+        "ars": "09761",
+        "name": "Augsburg",
+        "gemeindeschluessel": "09761",
+        "verbandsschluessel": "",
+        "landesregierung": "Augsburg"
+    },
+    {
+        "ars": "09762",
+        "name": "Kaufbeuren",
+        "gemeindeschluessel": "09762",
+        "verbandsschluessel": "",
+        "landesregierung": "Kaufbeuren"
+    },
+    {
+        "ars": "09763",
+        "name": "Kempten (Allg\u00e4u)",
+        "gemeindeschluessel": "09763",
+        "verbandsschluessel": "",
+        "landesregierung": "Kempten (Allg\u00e4u)"
+    },
+    {
+        "ars": "09764",
+        "name": "Memmingen",
+        "gemeindeschluessel": "09764",
+        "verbandsschluessel": "",
+        "landesregierung": "Memmingen"
+    },
+    {
+        "ars": "09771",
+        "name": "Aichach-Friedberg",
+        "gemeindeschluessel": "09771",
+        "verbandsschluessel": "",
+        "landesregierung": "Aichach"
+    },
+    {
+        "ars": "09772",
+        "name": "Augsburg",
+        "gemeindeschluessel": "09772",
+        "verbandsschluessel": "",
+        "landesregierung": "Augsburg"
+    },
+    {
+        "ars": "09773",
+        "name": "Dillingen a.d.Donau",
+        "gemeindeschluessel": "09773",
+        "verbandsschluessel": "",
+        "landesregierung": "Dillingen a.d.Donau"
+    },
+    {
+        "ars": "09774",
+        "name": "G\u00fcnzburg",
+        "gemeindeschluessel": "09774",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00fcnzburg"
+    },
+    {
+        "ars": "09775",
+        "name": "Neu-Ulm",
+        "gemeindeschluessel": "09775",
+        "verbandsschluessel": "",
+        "landesregierung": "Neu-Ulm"
+    },
+    {
+        "ars": "09776",
+        "name": "Lindau (Bodensee)",
+        "gemeindeschluessel": "09776",
+        "verbandsschluessel": "",
+        "landesregierung": "Lindau (Bodensee)"
+    },
+    {
+        "ars": "09777",
+        "name": "Ostallg\u00e4u",
+        "gemeindeschluessel": "09777",
+        "verbandsschluessel": "",
+        "landesregierung": "Marktoberdorf"
+    },
+    {
+        "ars": "09778",
+        "name": "Unterallg\u00e4u",
+        "gemeindeschluessel": "09778",
+        "verbandsschluessel": "",
+        "landesregierung": "Mindelheim"
+    },
+    {
+        "ars": "09779",
+        "name": "Donau-Ries",
+        "gemeindeschluessel": "09779",
+        "verbandsschluessel": "",
+        "landesregierung": "Donauw\u00f6rth"
+    },
+    {
+        "ars": "09780",
+        "name": "Oberallg\u00e4u",
+        "gemeindeschluessel": "09780",
+        "verbandsschluessel": "",
+        "landesregierung": "Sonthofen"
+    },
+    {
+        "ars": "10041",
+        "name": "Regionalverband Saarbr\u00fccken",
+        "gemeindeschluessel": "10041",
+        "verbandsschluessel": "",
+        "landesregierung": "Saarbr\u00fccken, Landeshauptstadt"
+    },
+    {
+        "ars": "10042",
+        "name": "Merzig-Wadern",
+        "gemeindeschluessel": "10042",
+        "verbandsschluessel": "",
+        "landesregierung": "Merzig, Kreisstadt"
+    },
+    {
+        "ars": "10043",
+        "name": "Neunkirchen",
+        "gemeindeschluessel": "10043",
+        "verbandsschluessel": "",
+        "landesregierung": "Ottweiler"
+    },
+    {
+        "ars": "10044",
+        "name": "Saarlouis",
+        "gemeindeschluessel": "10044",
+        "verbandsschluessel": "",
+        "landesregierung": "Saarlouis, Kreisstadt"
+    },
+    {
+        "ars": "10045",
+        "name": "Saarpfalz-Kreis",
+        "gemeindeschluessel": "10045",
+        "verbandsschluessel": "",
+        "landesregierung": "Homburg, Kreisstadt"
+    },
+    {
+        "ars": "10046",
+        "name": "St. Wendel",
+        "gemeindeschluessel": "10046",
+        "verbandsschluessel": "",
+        "landesregierung": "St. Wendel, Kreisstadt"
+    },
+    {
+        "ars": "11000",
+        "name": "Berlin, Stadt",
+        "gemeindeschluessel": "11000",
+        "verbandsschluessel": "",
+        "landesregierung": "Berlin"
+    },
+    {
+        "ars": "12051",
+        "name": "Brandenburg an der Havel, Stadt",
+        "gemeindeschluessel": "12051",
+        "verbandsschluessel": "",
+        "landesregierung": "Brandenburg an der Havel"
+    },
+    {
+        "ars": "12052",
+        "name": "Cottbus, Stadt",
+        "gemeindeschluessel": "12052",
+        "verbandsschluessel": "",
+        "landesregierung": "Cottbus"
+    },
+    {
+        "ars": "12053",
+        "name": "Frankfurt (Oder), Stadt",
+        "gemeindeschluessel": "12053",
+        "verbandsschluessel": "",
+        "landesregierung": "Frankfurt (Oder)"
+    },
+    {
+        "ars": "12054",
+        "name": "Potsdam, Stadt",
+        "gemeindeschluessel": "12054",
+        "verbandsschluessel": "",
+        "landesregierung": "Potsdam"
+    },
+    {
+        "ars": "12060",
+        "name": "Barnim",
+        "gemeindeschluessel": "12060",
+        "verbandsschluessel": "",
+        "landesregierung": "Eberswalde"
+    },
+    {
+        "ars": "12061",
+        "name": "Dahme-Spreewald",
+        "gemeindeschluessel": "12061",
+        "verbandsschluessel": "",
+        "landesregierung": "L\u00fcbben(Spreewald)"
+    },
+    {
+        "ars": "12062",
+        "name": "Elbe-Elster",
+        "gemeindeschluessel": "12062",
+        "verbandsschluessel": "",
+        "landesregierung": "Herzberg\/Elster"
+    },
+    {
+        "ars": "12063",
+        "name": "Havelland",
+        "gemeindeschluessel": "12063",
+        "verbandsschluessel": "",
+        "landesregierung": "Rathenow"
+    },
+    {
+        "ars": "12064",
+        "name": "M\u00e4rkisch-Oderland",
+        "gemeindeschluessel": "12064",
+        "verbandsschluessel": "",
+        "landesregierung": "Seelow"
+    },
+    {
+        "ars": "12065",
+        "name": "Oberhavel",
+        "gemeindeschluessel": "12065",
+        "verbandsschluessel": "",
+        "landesregierung": "Oranienburg"
+    },
+    {
+        "ars": "12066",
+        "name": "Oberspreewald-Lausitz",
+        "gemeindeschluessel": "12066",
+        "verbandsschluessel": "",
+        "landesregierung": "Senftenberg"
+    },
+    {
+        "ars": "12067",
+        "name": "Oder-Spree",
+        "gemeindeschluessel": "12067",
+        "verbandsschluessel": "",
+        "landesregierung": "Beeskow"
+    },
+    {
+        "ars": "12068",
+        "name": "Ostprignitz-Ruppin",
+        "gemeindeschluessel": "12068",
+        "verbandsschluessel": "",
+        "landesregierung": "Neuruppin"
+    },
+    {
+        "ars": "12069",
+        "name": "Potsdam-Mittelmark",
+        "gemeindeschluessel": "12069",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Belzig"
+    },
+    {
+        "ars": "12070",
+        "name": "Prignitz",
+        "gemeindeschluessel": "12070",
+        "verbandsschluessel": "",
+        "landesregierung": "Perleberg"
+    },
+    {
+        "ars": "12071",
+        "name": "Spree-Nei\u00dfe",
+        "gemeindeschluessel": "12071",
+        "verbandsschluessel": "",
+        "landesregierung": "Forst(Lausitz)"
+    },
+    {
+        "ars": "12072",
+        "name": "Teltow-Fl\u00e4ming",
+        "gemeindeschluessel": "12072",
+        "verbandsschluessel": "",
+        "landesregierung": "Luckenwalde"
+    },
+    {
+        "ars": "12073",
+        "name": "Uckermark",
+        "gemeindeschluessel": "12073",
+        "verbandsschluessel": "",
+        "landesregierung": "Prenzlau"
+    },
+    {
+        "ars": "13003",
+        "name": "Rostock",
+        "gemeindeschluessel": "13003",
+        "verbandsschluessel": "",
+        "landesregierung": "Rostock"
+    },
+    {
+        "ars": "13004",
+        "name": "Schwerin",
+        "gemeindeschluessel": "13004",
+        "verbandsschluessel": "",
+        "landesregierung": "Schwerin"
+    },
+    {
+        "ars": "13071",
+        "name": "Mecklenburgische Seenplatte",
+        "gemeindeschluessel": "13071",
+        "verbandsschluessel": "",
+        "landesregierung": "Neubrandenburg"
+    },
+    {
+        "ars": "13072",
+        "name": "Landkreis Rostock",
+        "gemeindeschluessel": "13072",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00fcstrow"
+    },
+    {
+        "ars": "13073",
+        "name": "Vorpommern-R\u00fcgen",
+        "gemeindeschluessel": "13073",
+        "verbandsschluessel": "",
+        "landesregierung": "Stralsund"
+    },
+    {
+        "ars": "13074",
+        "name": "Nordwestmecklenburg",
+        "gemeindeschluessel": "13074",
+        "verbandsschluessel": "",
+        "landesregierung": "Wismar"
+    },
+    {
+        "ars": "13075",
+        "name": "Vorpommern-Greifswald",
+        "gemeindeschluessel": "13075",
+        "verbandsschluessel": "",
+        "landesregierung": "Greifswald"
+    },
+    {
+        "ars": "13076",
+        "name": "Ludwigslust-Parchim",
+        "gemeindeschluessel": "13076",
+        "verbandsschluessel": "",
+        "landesregierung": "Parchim"
+    },
+    {
+        "ars": "14511",
+        "name": "Chemnitz, Stadt",
+        "gemeindeschluessel": "14511",
+        "verbandsschluessel": "",
+        "landesregierung": "Chemnitz"
+    },
+    {
+        "ars": "14521",
+        "name": "Erzgebirgskreis",
+        "gemeindeschluessel": "14521",
+        "verbandsschluessel": "",
+        "landesregierung": "Annaberg-Buchholz"
+    },
+    {
+        "ars": "14522",
+        "name": "Mittelsachsen",
+        "gemeindeschluessel": "14522",
+        "verbandsschluessel": "",
+        "landesregierung": "Freiberg"
+    },
+    {
+        "ars": "14523",
+        "name": "Vogtlandkreis",
+        "gemeindeschluessel": "14523",
+        "verbandsschluessel": "",
+        "landesregierung": "Plauen"
+    },
+    {
+        "ars": "14524",
+        "name": "Zwickau",
+        "gemeindeschluessel": "14524",
+        "verbandsschluessel": "",
+        "landesregierung": "Zwickau"
+    },
+    {
+        "ars": "14612",
+        "name": "Dresden, Stadt",
+        "gemeindeschluessel": "14612",
+        "verbandsschluessel": "",
+        "landesregierung": "Dresden"
+    },
+    {
+        "ars": "14625",
+        "name": "Bautzen",
+        "gemeindeschluessel": "14625",
+        "verbandsschluessel": "",
+        "landesregierung": "Bautzen"
+    },
+    {
+        "ars": "14626",
+        "name": "G\u00f6rlitz",
+        "gemeindeschluessel": "14626",
+        "verbandsschluessel": "",
+        "landesregierung": "G\u00f6rlitz"
+    },
+    {
+        "ars": "14627",
+        "name": "Mei\u00dfen",
+        "gemeindeschluessel": "14627",
+        "verbandsschluessel": "",
+        "landesregierung": "Mei\u00dfen"
+    },
+    {
+        "ars": "14628",
+        "name": "S\u00e4chsische Schweiz-Osterzgebirge",
+        "gemeindeschluessel": "14628",
+        "verbandsschluessel": "",
+        "landesregierung": "Pirna"
+    },
+    {
+        "ars": "14713",
+        "name": "Leipzig, Stadt",
+        "gemeindeschluessel": "14713",
+        "verbandsschluessel": "",
+        "landesregierung": "Leipzig"
+    },
+    {
+        "ars": "14729",
+        "name": "Leipzig",
+        "gemeindeschluessel": "14729",
+        "verbandsschluessel": "",
+        "landesregierung": "Borna"
+    },
+    {
+        "ars": "14730",
+        "name": "Nordsachsen",
+        "gemeindeschluessel": "14730",
+        "verbandsschluessel": "",
+        "landesregierung": "Torgau"
+    },
+    {
+        "ars": "15001",
+        "name": "Dessau-Ro\u00dflau, Stadt",
+        "gemeindeschluessel": "15001",
+        "verbandsschluessel": "",
+        "landesregierung": "Dessau-Ro\u00dflau"
+    },
+    {
+        "ars": "15002",
+        "name": "Halle (Saale), Stadt",
+        "gemeindeschluessel": "15002",
+        "verbandsschluessel": "",
+        "landesregierung": "Halle (Saale)"
+    },
+    {
+        "ars": "15003",
+        "name": "Magdeburg, Landeshauptstadt",
+        "gemeindeschluessel": "15003",
+        "verbandsschluessel": "",
+        "landesregierung": "Magdeburg"
+    },
+    {
+        "ars": "15081",
+        "name": "Altmarkkreis Salzwedel",
+        "gemeindeschluessel": "15081",
+        "verbandsschluessel": "",
+        "landesregierung": "Salzwedel"
+    },
+    {
+        "ars": "15082",
+        "name": "Anhalt-Bitterfeld",
+        "gemeindeschluessel": "15082",
+        "verbandsschluessel": "",
+        "landesregierung": "K\u00f6then (Anhalt)"
+    },
+    {
+        "ars": "15083",
+        "name": "B\u00f6rde",
+        "gemeindeschluessel": "15083",
+        "verbandsschluessel": "",
+        "landesregierung": "Haldensleben"
+    },
+    {
+        "ars": "15084",
+        "name": "Burgenlandkreis",
+        "gemeindeschluessel": "15084",
+        "verbandsschluessel": "",
+        "landesregierung": "Naumburg (Saale)"
+    },
+    {
+        "ars": "15085",
+        "name": "Harz",
+        "gemeindeschluessel": "15085",
+        "verbandsschluessel": "",
+        "landesregierung": "Halberstadt"
+    },
+    {
+        "ars": "15086",
+        "name": "Jerichower Land",
+        "gemeindeschluessel": "15086",
+        "verbandsschluessel": "",
+        "landesregierung": "Burg"
+    },
+    {
+        "ars": "15087",
+        "name": "Mansfeld-S\u00fcdharz",
+        "gemeindeschluessel": "15087",
+        "verbandsschluessel": "",
+        "landesregierung": "Sangerhausen"
+    },
+    {
+        "ars": "15088",
+        "name": "Saalekreis",
+        "gemeindeschluessel": "15088",
+        "verbandsschluessel": "",
+        "landesregierung": "Merseburg"
+    },
+    {
+        "ars": "15089",
+        "name": "Salzlandkreis",
+        "gemeindeschluessel": "15089",
+        "verbandsschluessel": "",
+        "landesregierung": "Bernburg (Saale)"
+    },
+    {
+        "ars": "15090",
+        "name": "Stendal",
+        "gemeindeschluessel": "15090",
+        "verbandsschluessel": "",
+        "landesregierung": "Stendal"
+    },
+    {
+        "ars": "15091",
+        "name": "Wittenberg",
+        "gemeindeschluessel": "15091",
+        "verbandsschluessel": "",
+        "landesregierung": "Lutherstadt Wittenberg"
+    },
+    {
+        "ars": "16051",
+        "name": "Erfurt, Stadt",
+        "gemeindeschluessel": "16051",
+        "verbandsschluessel": "",
+        "landesregierung": "Erfurt"
+    },
+    {
+        "ars": "16052",
+        "name": "Gera, Stadt",
+        "gemeindeschluessel": "16052",
+        "verbandsschluessel": "",
+        "landesregierung": "Gera"
+    },
+    {
+        "ars": "16053",
+        "name": "Jena, Stadt",
+        "gemeindeschluessel": "16053",
+        "verbandsschluessel": "",
+        "landesregierung": "Jena"
+    },
+    {
+        "ars": "16054",
+        "name": "Suhl, Stadt",
+        "gemeindeschluessel": "16054",
+        "verbandsschluessel": "",
+        "landesregierung": "Suhl"
+    },
+    {
+        "ars": "16055",
+        "name": "Weimar, Stadt",
+        "gemeindeschluessel": "16055",
+        "verbandsschluessel": "",
+        "landesregierung": "Weimar"
+    },
+    {
+        "ars": "16061",
+        "name": "Eichsfeld",
+        "gemeindeschluessel": "16061",
+        "verbandsschluessel": "",
+        "landesregierung": "Heilbad Heiligenstadt"
+    },
+    {
+        "ars": "16062",
+        "name": "Nordhausen",
+        "gemeindeschluessel": "16062",
+        "verbandsschluessel": "",
+        "landesregierung": "Nordhausen"
+    },
+    {
+        "ars": "16063",
+        "name": "Wartburgkreis",
+        "gemeindeschluessel": "16063",
+        "verbandsschluessel": "",
+        "landesregierung": "Bad Salzungen"
+    },
+    {
+        "ars": "16064",
+        "name": "Unstrut-Hainich-Kreis",
+        "gemeindeschluessel": "16064",
+        "verbandsschluessel": "",
+        "landesregierung": "M\u00fchlhausen"
+    },
+    {
+        "ars": "16065",
+        "name": "Kyffh\u00e4userkreis",
+        "gemeindeschluessel": "16065",
+        "verbandsschluessel": "",
+        "landesregierung": "Sondershausen"
+    },
+    {
+        "ars": "16066",
+        "name": "Schmalkalden-Meiningen",
+        "gemeindeschluessel": "16066",
+        "verbandsschluessel": "",
+        "landesregierung": "Meiningen"
+    },
+    {
+        "ars": "16067",
+        "name": "Gotha",
+        "gemeindeschluessel": "16067",
+        "verbandsschluessel": "",
+        "landesregierung": "Gotha\/Th\u00fcr."
+    },
+    {
+        "ars": "16068",
+        "name": "S\u00f6mmerda",
+        "gemeindeschluessel": "16068",
+        "verbandsschluessel": "",
+        "landesregierung": "S\u00f6mmerda"
+    },
+    {
+        "ars": "16069",
+        "name": "Hildburghausen",
+        "gemeindeschluessel": "16069",
+        "verbandsschluessel": "",
+        "landesregierung": "Hildburghausen"
+    },
+    {
+        "ars": "16070",
+        "name": "Ilm-Kreis",
+        "gemeindeschluessel": "16070",
+        "verbandsschluessel": "",
+        "landesregierung": "Arnstadt"
+    },
+    {
+        "ars": "16071",
+        "name": "Weimarer Land",
+        "gemeindeschluessel": "16071",
+        "verbandsschluessel": "",
+        "landesregierung": "Apolda"
+    },
+    {
+        "ars": "16072",
+        "name": "Sonneberg",
+        "gemeindeschluessel": "16072",
+        "verbandsschluessel": "",
+        "landesregierung": "Sonneberg"
+    },
+    {
+        "ars": "16073",
+        "name": "Saalfeld-Rudolstadt",
+        "gemeindeschluessel": "16073",
+        "verbandsschluessel": "",
+        "landesregierung": "Saalfeld"
+    },
+    {
+        "ars": "16074",
+        "name": "Saale-Holzland-Kreis",
+        "gemeindeschluessel": "16074",
+        "verbandsschluessel": "",
+        "landesregierung": "Eisenberg"
+    },
+    {
+        "ars": "16075",
+        "name": "Saale-Orla-Kreis",
+        "gemeindeschluessel": "16075",
+        "verbandsschluessel": "",
+        "landesregierung": "Schleiz"
+    },
+    {
+        "ars": "16076",
+        "name": "Greiz",
+        "gemeindeschluessel": "16076",
+        "verbandsschluessel": "",
+        "landesregierung": "Greiz"
+    },
+    {
+        "ars": "16077",
+        "name": "Altenburger Land",
+        "gemeindeschluessel": "16077",
+        "verbandsschluessel": "",
+        "landesregierung": "Altenburg"
+    }
+]
