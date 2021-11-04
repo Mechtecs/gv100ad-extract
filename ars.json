@@ -9569,13 +9569,6 @@
         "landesregierung": ""
     },
     {
-        "ars": "031530007",
-        "name": "Langelsheim, Stadt",
-        "gemeindeschluessel": "03153",
-        "verbandsschluessel": "0007",
-        "landesregierung": ""
-    },
-    {
         "ars": "031530008",
         "name": "Liebenburg",
         "gemeindeschluessel": "03153",
@@ -9611,11 +9604,11 @@
         "landesregierung": "dt"
     },
     {
-        "ars": "031535401",
-        "name": "Lutter am Barenberge",
+        "ars": "031530019",
+        "name": "LangelsheimStadt",
         "gemeindeschluessel": "03153",
-        "verbandsschluessel": "5401",
-        "landesregierung": "Lutter am Barenberge"
+        "verbandsschluessel": "0019",
+        "landesregierung": ""
     },
     {
         "ars": "031539504",
@@ -9632,20 +9625,6 @@
         "landesregierung": ""
     },
     {
-        "ars": "031535401006",
-        "name": "Hahausen",
-        "gemeindeschluessel": "03153006",
-        "verbandsschluessel": "5401",
-        "landesregierung": ""
-    },
-    {
-        "ars": "031530007007",
-        "name": "Langelsheim, Stadt",
-        "gemeindeschluessel": "03153007",
-        "verbandsschluessel": "0007",
-        "landesregierung": ""
-    },
-    {
         "ars": "031530008008",
         "name": "Liebenburg",
         "gemeindeschluessel": "03153008",
@@ -9653,24 +9632,10 @@
         "landesregierung": ""
     },
     {
-        "ars": "031535401009",
-        "name": "Lutter am Barenberge, Flecken",
-        "gemeindeschluessel": "03153009",
-        "verbandsschluessel": "5401",
-        "landesregierung": ""
-    },
-    {
         "ars": "031530012012",
         "name": "Seesen, Stadt",
         "gemeindeschluessel": "03153012",
         "verbandsschluessel": "0012",
-        "landesregierung": ""
-    },
-    {
-        "ars": "031535401014",
-        "name": "Wallmoden",
-        "gemeindeschluessel": "03153014",
-        "verbandsschluessel": "5401",
         "landesregierung": ""
     },
     {
@@ -9693,6 +9658,13 @@
         "gemeindeschluessel": "03153018",
         "verbandsschluessel": "0018",
         "landesregierung": "dt"
+    },
+    {
+        "ars": "031530019019",
+        "name": "Langelsheim, Stadt",
+        "gemeindeschluessel": "03153019",
+        "verbandsschluessel": "0019",
+        "landesregierung": ""
     },
     {
         "ars": "031539504504",
@@ -12558,20 +12530,6 @@
         "landesregierung": "Rohrsen"
     },
     {
-        "ars": "032565405",
-        "name": "Liebenau",
-        "gemeindeschluessel": "03256",
-        "verbandsschluessel": "5405",
-        "landesregierung": "Liebenau"
-    },
-    {
-        "ars": "032565406",
-        "name": "Marklohe",
-        "gemeindeschluessel": "03256",
-        "verbandsschluessel": "5406",
-        "landesregierung": "Marklohe"
-    },
-    {
         "ars": "032565407",
         "name": "Steimbke",
         "gemeindeschluessel": "03256",
@@ -12600,17 +12558,24 @@
         "landesregierung": "Stolzenau"
     },
     {
-        "ars": "032565406001",
+        "ars": "032565411",
+        "name": "Weser-Aue",
+        "gemeindeschluessel": "03256",
+        "verbandsschluessel": "5411",
+        "landesregierung": "Marklohe"
+    },
+    {
+        "ars": "032565411001",
         "name": "Balge",
         "gemeindeschluessel": "03256001",
-        "verbandsschluessel": "5406",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
-        "ars": "032565405002",
+        "ars": "032565411002",
         "name": "Binnen",
         "gemeindeschluessel": "03256002",
-        "verbandsschluessel": "5405",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
@@ -12726,10 +12691,10 @@
         "landesregierung": ""
     },
     {
-        "ars": "032565405019",
+        "ars": "032565411019",
         "name": "Liebenau, Flecken",
         "gemeindeschluessel": "03256019",
-        "verbandsschluessel": "5405",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
@@ -12740,10 +12705,10 @@
         "landesregierung": ""
     },
     {
-        "ars": "032565406021",
+        "ars": "032565411021",
         "name": "Marklohe",
         "gemeindeschluessel": "03256021",
-        "verbandsschluessel": "5406",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
@@ -12754,10 +12719,10 @@
         "landesregierung": ""
     },
     {
-        "ars": "032565405023",
+        "ars": "032565411023",
         "name": "Pennigsehl",
         "gemeindeschluessel": "03256023",
-        "verbandsschluessel": "5405",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
@@ -12845,10 +12810,10 @@
         "landesregierung": ""
     },
     {
-        "ars": "032565406036",
+        "ars": "032565411036",
         "name": "Wietzen",
         "gemeindeschluessel": "03256036",
-        "verbandsschluessel": "5406",
+        "verbandsschluessel": "5411",
         "landesregierung": ""
     },
     {
@@ -26258,7 +26223,7 @@
     },
     {
         "ars": "064340009",
-        "name": "Schmitten",
+        "name": "Schmitten im Taunus",
         "gemeindeschluessel": "06434",
         "verbandsschluessel": "0009",
         "landesregierung": ""
@@ -26349,7 +26314,7 @@
     },
     {
         "ars": "064340009009",
-        "name": "Schmitten",
+        "name": "Schmitten im Taunus",
         "gemeindeschluessel": "06434009",
         "verbandsschluessel": "0009",
         "landesregierung": ""
@@ -30997,7 +30962,7 @@
     },
     {
         "ars": "066350021",
-        "name": "Waldeck, Stadt",
+        "name": "Waldeck, Nationalparkstadt",
         "gemeindeschluessel": "06635",
         "verbandsschluessel": "0021",
         "landesregierung": ""
@@ -31151,7 +31116,7 @@
     },
     {
         "ars": "066350021021",
-        "name": "Waldeck, Stadt",
+        "name": "Waldeck, Nationalparkstadt",
         "gemeindeschluessel": "06635021",
         "verbandsschluessel": "0021",
         "landesregierung": ""
@@ -92296,7 +92261,7 @@
     },
     {
         "ars": "120715107401",
-        "name": "Turnow-Preilack\/Turnow-Psi\u00c5\u0082uk",
+        "name": "Turnow-Preilack\/Turnow-P\u00c5\u009bi\u00c5\u0082uk",
         "gemeindeschluessel": "12071401",
         "verbandsschluessel": "5107",
         "landesregierung": ""

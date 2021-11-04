@@ -1,0 +1,31 @@
+Erscheinungsmonat: Oktober 2021
+
+Ihr Kontakt zu uns:
+www.destatis.de/kontakt
+Telefon: +49 (0)611/75-2405
+
+
+(c) Daten (im Auftrag der Herausgebergemeinschaft Statistische Ämter des Bundes und der Länder)
+    Statistisches Bundesamt (Destatis), 2021
+    Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.
+    
+
+Die Bevölkerungsangaben basieren für alle Bundesländer auf dem Stichtag 31.12.2020.
+
+Die Ergebnisse ab Berichtsjahr 2016 sind aufgrund methodischer Änderungen und technischer 
+Weiterentwicklung nur bedingt mit den Vorjahreswerten vergleichbar. Erläuterungen dazu finden 
+Sie unter www.destatis.de beim Bevölkerungsstand.
+
+Die Flächenangaben basieren für alle Bundesländer auf dem Stichtag 31.12.2020.
+
+Aufgrund fachlicher und methodischer Umstellungen in der Vermessungsverwaltung 
+auf das "Amtliche Liegenschaftskataster-Informationssystem" (ALKIS®) ist der 
+Vergleich der Flächendaten ab 2014 mit den Flächendaten vorangegangener 
+Jahre nur eingeschränkt möglich.		
+
+Abweichungen zu den Fläche- und Bevölkerungsangaben zur letzten
+Ausgabe des GV100AD sind bei den Gemeinden möglich,
+deren Fläche und/oder Bevölkerung im Zuge einer Gebietsänderung geändert wurde(n).
+
+Durch die Aufname der sorbischen Schreibweise in den amtlichen Gemeindenamen ist es 
+notwendig geworden, die Daten mit UTF-8 zu kodieren.

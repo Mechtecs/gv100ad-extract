@@ -5,7 +5,7 @@
  * (https://www.destatis.de/DE/ZahlenFakten/LaenderRegionen/Regionales/Gemeindeverzeichnis/Gemeindeverzeichnis.html)
  */
 
-$f = fopen('GV100AD_300921.txt', 'r');
+$f = fopen('GV100AD_301121.ASC', 'r');
 
 $list = [];
 while ($line = utf8_encode(fgets($f))) {
